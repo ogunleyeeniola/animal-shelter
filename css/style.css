@@ -1,0 +1,11 @@
+.banner h4 {
+    text-align: left;  
+font-style: italic;
+font-family: cursive  ;
+}
+ .banner h3 {
+    text-align: right;
+    background-color: rgb(96, 168, 96) ;
+    cursor: pointer;
+    padding-left: 0px;
+ }
