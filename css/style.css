@@ -13,10 +13,7 @@ padding:  20px 0px;
     width: 100px;
 }
 
- .banner h3 {
-    text-align: right;
-    background-color: rgb(96, 168, 96) ;
-    cursor: pointer;
-    padding-left: 0px;
+ .banner img  {
+    width: 100% ;
  }
- .banner h2
+ 
